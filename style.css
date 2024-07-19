@@ -1,0 +1,35 @@
+body {
+    font-family: Georgia, Garamond, serif;
+}
+
+h1 {
+    background-color: antiquewhite;
+    color: #000000;
+    font-size: 40px;
+    text-align: center;
+}
+
+img {
+    border: solid;
+    border-color: antiquewhite;
+    display: block;
+    margin: auto;
+    width: 400px;
+    height: auto;
+}
+
+.blueberry {
+    background-color: #91b7ff;
+}
+
+.banana {
+    background-color: #fff06c;
+}
+
+.peanut {
+    background-color: #ffda84;
+}
+
+.info {
+    font-family: 'Courier New', Courier, monospace;
+}
